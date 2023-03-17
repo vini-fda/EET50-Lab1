@@ -1,5 +1,8 @@
 # EET50-Lab1
 
-Professor: Dimas Irion Alves
-Disciplina: EET-50 – Princípios de Comunicações
+- Professor: Dimas Irion Alves
+- Disciplina: EET-50 – Princípios de Comunicações
 
+## Conteúdo
+
+Esta primeira pr
