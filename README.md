@@ -5,4 +5,4 @@
 
 ## Conteúdo
 
-Esta primeira prárica compreende os conceitos de FFT, SNR, SIR, potência de sinais, análise espectral de sinais e bit error rate (BER)
+Esta primeira prática compreende os conceitos de FFT, SNR, SIR, potência de sinais, análise espectral de sinais e bit error rate (BER)
